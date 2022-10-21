@@ -1,8 +1,10 @@
 /.cache
 /.config
 /.ipython
+/.gitconfig
 /.local
 /.vscode
+/.bash_history
 /.vscode-server
 /.wget-hsts
 /catboost_info
