@@ -1,0 +1,11 @@
+/.cache
+/.config
+/.ipython
+/.local
+/.vscode
+/.vscode-server
+/.wget-hsts
+/catboost_info
+/data
+/introduction_original.ipynb
+/ntnuhome
